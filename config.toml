@@ -123,21 +123,26 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/nehamoopen"
 
   [[params.social]]
     name = "email"
     url  = "mailto:n.moopen@uu.nl"
 
   [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/nehamoopen"
+    
+  [[params.social]]
     name = "github"
     url  = "https://github.com/nehamoopen"
-
+  
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/nehamoopen"
+  
+   [[params.social]]
+    name = "orcid"
+    url  = "https://orcid.org/0000-0003-1412-4402" 
 
 [languages]
   [languages.en]
