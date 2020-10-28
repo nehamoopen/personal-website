@@ -10,7 +10,7 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "G-Z0M24KWZDY"
+googleAnalytics = "UA-181523158-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -126,6 +126,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/nehamoopen"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:n.moopen@uu.nl"
 
   [[params.social]]
     name = "github"
