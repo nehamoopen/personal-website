@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://nehamoopen.netlify.app"
 title   = "Neha Moopen" #this is the title on the landing page
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
