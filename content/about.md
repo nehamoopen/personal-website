@@ -15,7 +15,7 @@ My name is Neha. Welcome to my personal website!
 
 I'm a [Research Data Manager](https://www.uu.nl/en/research/research-data-management) at Utrecht University Library. I support researchers with all aspects of their data management, keeping open science and [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) principles in mind.
 
-I'm super enthusiastic about open science & open-source projects + communities. Take a peek at my [Projects](https://nehamoopen.netlify.app/projects/) (still being updated) page to see what I've been up to --- at the university, and beyond :rocket:
+I'm super enthusiastic about open science & open-source projects + communities. Take a peek at my [Projects](https://nehamoopen.netlify.app/projects/) (still being updated) page to see what I've been up to --- at the university, and beyond.
 
 I've a background in clinical psychology, and I've previously worked as a university teacher and junior researcher. During my researcher days, I was interested in using mHealth tools to better understand mental health symptoms in daily life.
 
